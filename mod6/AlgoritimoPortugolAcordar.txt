@@ -1,0 +1,17 @@
+1-Abrir os olhos;
+2-levantar;
+3-abrir a cortina;
+4-Não está chovendo:
+	1-Abrir janela;
+5-Ir para o banheiro;
+6-Lavar o rosto;
+7-Fazer omelete;
+8-Se está quente:
+	1-Tomar suco;
+senão:
+	1-Tomar café;
+9-Subir escadas;
+10-Escovar os dentes;
+11-Arrumar a cama;
+12-Ligar computador;
+13-Estudar;
