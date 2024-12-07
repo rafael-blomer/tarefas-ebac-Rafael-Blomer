@@ -18,6 +18,5 @@ public class Application {
         System.out.println(cr.getAnnotation(Tabela.class));
         for (Method a : carro.getClass().getDeclaredMethods())
             System.out.println(a.getAnnotation(Tabela.class));
-
     }
 }
